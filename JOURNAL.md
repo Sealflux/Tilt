@@ -20,4 +20,4 @@ I also have to remember that I need to program/configure the INT signals of the 
 
 I'll do the PCB tomorrow and update the README with the BOM along with proper costs!
 
-### Lapse Link: 
+### Lapse Link: https://lapse.hackclub.com/timelapse/DgCehcromlk1
