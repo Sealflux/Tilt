@@ -27,7 +27,7 @@ A motion-controlled keychain game console. Built around the Seeed XIAO ESP32C3 w
 | 1 | Capacitor – 220 nF | C3 | $0.96 | [C412252](https://www.lcsc.com/product-detail/C412252.html) |
 | 2 | Ceramic Capacitor – 100 nF | C1,C2 | $0.88 | [C60474](https://www.lcsc.com/product-detail/C60474.html) |
 | 1 | Aluminum Capacitor – 10 µF | C4 | $0.74 | [C192100](https://www.lcsc.com/product-detail/C192100.html) |
-| 1 | Buzzer | BUZZER1 | | [C49246964](https://www.lcsc.com/product-detail/C49246964.html) |
+| 1 | Buzzer | BUZZER1 | $0.32 | [C49246964](https://www.lcsc.com/product-detail/C49246964.html) |
 | 1 | 3D Printed Case | N/A | Idk whatever fliament you use makes costs dependent | N/A |
 | 1 | Shipping | $52.39 | $6.20(Seeed) + $11.33(LCSC) + $6.99(Amazon) + $27.87(JLCPCB) | N/A |
 
