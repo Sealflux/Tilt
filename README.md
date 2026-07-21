@@ -17,7 +17,7 @@ A motion-controlled keychain game console. Built around the Seeed XIAO ESP32C3 w
 
 ## Bill of Materials (BOM)
 
-| Qty | Part Name | Designator | Costs | LCSC Number |
+| Qty | Part Name | Designator | Costs | Link/LCSC Number |
 |:---:|-----------|:----------:|:-----:|-------------|
 | 1 | Seeed XIAO ESP32-C3 | U2 | $6.35 | [Link](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/) |
 | 1 | LiPo Battery | BT1 | | I'll find one on amazon eventually |
