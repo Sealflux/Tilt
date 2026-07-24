@@ -21,3 +21,10 @@ I also have to remember that I need to program/configure the INT signals of the 
 I'll do the PCB tomorrow and update the README with the BOM along with proper costs!
 
 ### Lapse Link: https://lapse.hackclub.com/timelapse/DgCehcromlk1
+
+## July 23rd: Fixing my schematic wit level shifters and LDO.
+
+Umm I kinda had a 3 day break from this project but I'm back and locked in. First off, I was checking the schematic for my accelerometer and realized that I didn't connect any power to it. Then I checked the datasheet and the accelerometer needs voltage between -0.3 and 2.2 Volts which means I need a LDO for the accelerometer. The recommended voltage will be 1.8 Volts so I need a LDO for that. I just realized that I need a level shifter for the accelerometer for the SDA/SCL because in the datasheet it said explicitly, that supply voltage on any pin should never exceed 2.2 Volts which means the 3.3 Volts feeding from the ESP32-C3's SDA/SCL into the acclerometer needs to be shifted down to 1.8 volts and then the data out needs to be shifted back to 3.3 Volts back to the ESP32-C3... I'll probably handle that tomorrow or today, depending on my progress. ![image](https://cdn.hackclub.com/019f91cd-c613-7706-9c42-57fea5355ed7/paste-1784857609447.png) 
+Yeah I finished the schematic* if I don't add anything more.
+
+### Lapse Link: https://lapse.hackclub.com/timelapse/iDyg0CzmcFjp
