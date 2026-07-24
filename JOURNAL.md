@@ -28,3 +28,12 @@ Umm I kinda had a 3 day break from this project but I'm back and locked in. Firs
 Yeah I finished the schematic* if I don't add anything more.
 
 ### Lapse Link: https://lapse.hackclub.com/timelapse/iDyg0CzmcFjp
+
+## July 24th: Doing the PCB layout and also changing schematic at the same time
+
+I began doing the PCB layout and routing traces as well as simanutelous, I mean chaging the schematic at the same time to make routing my traces a lot easier although my PCB is still a hot mess, its good enough I guess. Also had me second guessing my edge cut efficiency. So yeah thats basically what I did today, I'll do the CAD tomorrow and then the subsequent days will simply be me making a game to put on the hardware! yippie!. The reason why I made this project is that I'll have it on my backpack and then soemeone will ask whats that and I can show them how to use it and say that the game and the console itself I fully made which is sick!
+Finished schematic*: ![image](https://cdn.hackclub.com/019f9652-e64e-7f7d-a311-0e0d6c6ab22b/paste-1784933442885.png)
+Finished PCB*: ![image](https://cdn.hackclub.com/019f9653-6e5d-7b62-9656-bd530bad56bb/paste-1784933477262.png)
+Finished PCBA*: ![image](https://cdn.hackclub.com/019f9653-e17f-70d9-a2ff-eed4aa635f9a/paste-1784933506940.png)
+
+### Lapse Link: https://lapse.hackclub.com/timelapse/NZZQcLnYxApk
