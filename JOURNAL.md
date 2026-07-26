@@ -37,3 +37,10 @@ Finished PCB*: ![image](https://cdn.hackclub.com/019f9653-6e5d-7b62-9656-bd530ba
 Finished PCBA*: ![image](https://cdn.hackclub.com/019f9653-e17f-70d9-a2ff-eed4aa635f9a/paste-1784933506940.png)
 
 ### Lapse Link: https://lapse.hackclub.com/timelapse/NZZQcLnYxApk
+
+## July 26th: Doing and finishing the CAD/Case
+
+I began and finished modeling the case for Tilt. I'll begin making the firmware/designing the game that will run on Tilt tomorrow. But so far the hardware side of Tilt is done!
+Finished Case*: ![image](https://cdn.hackclub.com/019fa0c3-73aa-7cd1-8402-d4e2223aaa97/paste-1785108590849.png)
+
+### Lapse Link: https://lapse.hackclub.com/timelapse/da-rFHXiI8Pn

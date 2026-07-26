@@ -38,13 +38,13 @@ A motion-controlled keychain game console. Built around the Seeed XIAO ESP32C3 w
 ## Firmware
 
 ## Schematic
-
+![image](https://cdn.hackclub.com/019f9652-e64e-7f7d-a311-0e0d6c6ab22b/paste-1784933442885.png)
 ## PCB
-
+![image](https://cdn.hackclub.com/019f9653-6e5d-7b62-9656-bd530bad56bb/paste-1784933477262.png)
 ## PCBA
-
+![image](https://cdn.hackclub.com/019f9653-e17f-70d9-a2ff-eed4aa635f9a/paste-1784933506940.png)
 ## Case
-
+![image](https://cdn.hackclub.com/019fa0c3-73aa-7cd1-8402-d4e2223aaa97/paste-1785108590849.png)
 ## Demo(Different Github Repo For The Game)
 
 Link: (TBD After I finish hardware)
