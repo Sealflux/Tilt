@@ -52,3 +52,7 @@ Sideview Of Cad: ![image](https://cdn.hackclub.com/019fa697-3cd0-7f82-b8a1-90aa9
 For me coding the game, I didn't record it using lapse because thats what hackatime is for :D. I also added the PCB and Cad files! Also I realized that I can't code the game unless I have the hardware or a way to simulate it, which I found called Wokwi.com, however I need to set up the same design visually in the website so i'll do that tomorrow with lapse and then hackatime my code! I also setup skeleton of the tilt game by adding a folder and ino.
 
 ### Lapse Link: https://lapse.hackclub.com/timelapse/J4MSxDjkK73_
+
+## July 28th: Shipping hardware
+
+I've decided to simply have the firmware of this project/game of this project on a seperate repo, this will simply be the hardware!

@@ -46,7 +46,7 @@ A motion-controlled keychain game console. Built around the Seeed XIAO ESP32C3 w
 7. Assemble case, sand the surfaces of top and bottom and then superglue or idk use tape. I didn't add screws for some reason.
 8. Press the button and play the game!
 ## Firmware
-TO BE DONE~!!!!
+https://github.com/Sealflux/TiltGame
 ## Schematic
 ![image](https://cdn.hackclub.com/019f9652-e64e-7f7d-a311-0e0d6c6ab22b/paste-1784933442885.png)
 ## PCB
