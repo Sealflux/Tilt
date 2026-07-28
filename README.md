@@ -5,7 +5,10 @@
 A motion-controlled keychain game console. Built around the Seeed XIAO ESP32C3 with an SSD1306 OLED and MPU6050 accelerometer. Planning to make a ball tilt game probably
 
 ## Features
-
+- Its a game console with an accelerometer in it!
+- Play cool game or design one yourself!
+- Put it on your backpack as its supposed to be a keychain thingabob
+- Rechargeable Battery!
 ## Hardware
 - Seeed Xiao ESP32-C3
 - SSD1306 128x64 OLED (I2C)
@@ -34,9 +37,16 @@ A motion-controlled keychain game console. Built around the Seeed XIAO ESP32C3 w
 
 
 ## Steps To Reproduce
-
+1. Order the PCB from whatever PCB manufacturer you like, download gerbers.zip from Production folder
+2. 3D print the case, Its in the production folder. Use whatever filament you want, probably PLA.
+3. Order the parts using the BOM ^^^
+4. Solder the parts onto the PCB
+5. Connect the LiPo battery to the PCB
+6. Flash my firmware(once I finish it duh)
+7. Assemble case, sand the surfaces of top and bottom and then superglue or idk use tape. I didn't add screws for some reason.
+8. Press the button and play the game!
 ## Firmware
-
+TO BE DONE~!!!!
 ## Schematic
 ![image](https://cdn.hackclub.com/019f9652-e64e-7f7d-a311-0e0d6c6ab22b/paste-1784933442885.png)
 ## PCB
