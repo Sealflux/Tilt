@@ -47,6 +47,6 @@ A motion-controlled keychain game console. Built around the Seeed XIAO ESP32C3 w
 ![image](https://cdn.hackclub.com/019fa0c3-73aa-7cd1-8402-d4e2223aaa97/paste-1785108590849.png)
 ## Side View ^
 ![image](https://cdn.hackclub.com/019fa697-a20f-70f2-a741-f791e27505d0/Screenshot%202026-07-27%20at%2010.38.13%E2%80%AFPM.png)
-## Demo(Different Github Repo For The Game)
+## Demo(Idk probably after horizons event)
 
 Link: (TBD After I finish hardware)
