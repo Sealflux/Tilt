@@ -55,7 +55,7 @@ TO BE DONE~!!!!
 ![image](https://cdn.hackclub.com/019f9653-e17f-70d9-a2ff-eed4aa635f9a/paste-1784933506940.png)
 ## Case
 ![image](https://cdn.hackclub.com/019fa0c3-73aa-7cd1-8402-d4e2223aaa97/paste-1785108590849.png)
-## Side View ^
+## Side View Below
 ![image](https://cdn.hackclub.com/019fa697-a20f-70f2-a741-f791e27505d0/Screenshot%202026-07-27%20at%2010.38.13%E2%80%AFPM.png)
 ## Demo(Idk probably after horizons event)
 
