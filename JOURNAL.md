@@ -44,3 +44,11 @@ I began and finished modeling the case for Tilt. I'll begin making the firmware/
 Finished Case*: ![image](https://cdn.hackclub.com/019fa0c3-73aa-7cd1-8402-d4e2223aaa97/paste-1785108590849.png)
 
 ### Lapse Link: https://lapse.hackclub.com/timelapse/da-rFHXiI8Pn
+
+## July 27th: Finishing the Cad + Coding the game
+
+In the lapse, I finished the cad by adding the model of the PCB to make it look better.
+Sideview Of Cad: ![image](https://cdn.hackclub.com/019fa697-3cd0-7f82-b8a1-90aa9151c7e9/Screenshot%202026-07-27%20at%2010.38.13%E2%80%AFPM.png)
+For me coding the game, I didn't record it using lapse because thats what hackatime is for :D. I also added the PCB and Cad files! Also I realized that I can't code the game unless I have the hardware or a way to simulate it, which I found called Wokwi.com, however I need to set up the same design visually in the website so i'll do that tomorrow with lapse and then hackatime my code! I also setup skeleton of the tilt game by adding a folder and ino.
+
+### Lapse Link: https://lapse.hackclub.com/timelapse/J4MSxDjkK73_
